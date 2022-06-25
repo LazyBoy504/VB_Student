@@ -1,0 +1,30 @@
+C:\Users\admin\AppData\Local\Temporary Projects\formStudent\bin\Debug\formStudent.exe.config
+C:\Users\admin\AppData\Local\Temporary Projects\formStudent\bin\Debug\formStudent.exe
+C:\Users\admin\AppData\Local\Temporary Projects\formStudent\bin\Debug\formStudent.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\formStudent\bin\Debug\formStudent.xml
+C:\Users\admin\AppData\Local\Temporary Projects\formStudent\obj\Debug\formStudent.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\formStudent\obj\Debug\formStudent.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\formStudent\obj\Debug\formStudent.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\formStudent\obj\Debug\formStudent.exe
+C:\Users\admin\AppData\Local\Temporary Projects\formStudent\obj\Debug\formStudent.xml
+C:\Users\admin\AppData\Local\Temporary Projects\formStudent\obj\Debug\formStudent.pdb
+D:\Educational\College Study\VP Codes\formStudent\bin\Debug\formStudent.exe.config
+D:\Educational\College Study\VP Codes\formStudent\obj\Debug\formStudent.exe
+D:\Educational\College Study\VP Codes\formStudent\obj\Debug\formStudent.xml
+D:\Educational\College Study\VP Codes\formStudent\obj\Debug\formStudent.pdb
+D:\Educational\College Study\VP Codes\formStudent\bin\Debug\formStudent.exe
+D:\Educational\College Study\VP Codes\formStudent\bin\Debug\formStudent.pdb
+D:\Educational\College Study\VP Codes\formStudent\bin\Debug\formStudent.xml
+D:\Educational\College Study\VP Codes\formStudent\obj\Debug\formStudent.Form1.resources
+D:\Educational\College Study\VP Codes\formStudent\obj\Debug\formStudent.Resources.resources
+D:\Educational\College Study\VP Codes\formStudent\obj\Debug\formStudent.vbproj.GenerateResource.Cache
+D:\#Educational\College Study\VP Codes\formStudent\bin\Debug\formStudent.exe.config
+D:\#Educational\College Study\VP Codes\formStudent\obj\Debug\formStudent.exe
+D:\#Educational\College Study\VP Codes\formStudent\obj\Debug\formStudent.xml
+D:\#Educational\College Study\VP Codes\formStudent\obj\Debug\formStudent.pdb
+D:\#Educational\College Study\VP Codes\formStudent\bin\Debug\formStudent.exe
+D:\#Educational\College Study\VP Codes\formStudent\bin\Debug\formStudent.pdb
+D:\#Educational\College Study\VP Codes\formStudent\bin\Debug\formStudent.xml
+D:\#Educational\College Study\VP Codes\formStudent\obj\Debug\formStudent.Form1.resources
+D:\#Educational\College Study\VP Codes\formStudent\obj\Debug\formStudent.Resources.resources
+D:\#Educational\College Study\VP Codes\formStudent\obj\Debug\formStudent.vbproj.GenerateResource.Cache
